@@ -1,4 +1,4 @@
-from Program import ANN
+import ANN
 import torch
 from torch import nn
 from torchvision import datasets
